@@ -77,14 +77,7 @@ Assess risk using advanced metrics like drawdowns and ratios.
 Interactive equity curves.
 Drawdown plots to highlight risk exposure.
 
-## 📝References
-
-Yahoo Finance API via yfinance
-Plotly Documentation
-Trading and Exchanges by Larry Harris
-
 ## 👤 Author
-
 Dhruv Gohil
 git clone https://github.com/your-username/TradingStrategy-Backtesting.git
 cd TradingStrategy-Backtesting
